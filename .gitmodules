@@ -1,3 +1,6 @@
 [submodule "Applied-Data-Analysis-Project"]
 	path = Applied-Data-Analysis-Project
 	url = git@github.com:MatheoTaillandier/Applied-Data-Analysis-Project.git
+[submodule "ada-2025-project-abracadabra2025"]
+	path = ada-2025-project-abracadabra2025
+	url = git@github-epfl:epfl-ada/ada-2025-project-abracadabra2025.git
